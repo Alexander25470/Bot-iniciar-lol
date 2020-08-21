@@ -1,0 +1,1 @@
+usuario:,aca_va_tu_usuario,contraseña:,aca_tu_contraseña,modo_juego:,reclutamiento,linea1:,adc,linea1:,supp
